@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/kevin3s/CSC3916_HW1#readme",
   "dependencies": {
+    "csc3916_hw1": "file:",
     "express": "^4.21.2"
   },
   "devDependencies": {
